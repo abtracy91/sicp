@@ -3,32 +3,32 @@ SICP
 
 My solutions to the Structure and Interpretation of Computer Programs
 
-# Chapter 1. Building Abstratctions with Procedures
+## Chapter 1. Building Abstratctions with Procedures
 
-## 1.1 Elements of Programming
+### 1.1 Elements of Programming
 
 Ex 1.{1..8}
 
-## 1.2 Procedures and the Processes They Generate
+### 1.2 Procedures and the Processes They Generate
 
 Ex 1.{9..28}
 
-## 1.3 Formulating Abstractions with Higher-Order Procedures
+### 1.3 Formulating Abstractions with Higher-Order Procedures
 
 Ex 1.{29..46}
 
-# Chapter 2. Building Abstractions with Data
+## Chapter 2. Building Abstractions with Data
 
 Ex 2.{1..97}
 
-# Chapter 3. Modeling with Mutable Data
+## Chapter 3. Modeling with Mutable Data
 
 Ex 3.{1..82}
 
-# Chapter 4. Metalinguistic Abstraction
+## Chapter 4. Metalinguistic Abstraction
 
 Ex 4.{1..79}
 
-# Chapter 5. Computing with Register Machines
+## Chapter 5. Computing with Register Machines
 
 Ex 5.{1..52}
