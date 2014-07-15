@@ -7,11 +7,21 @@ My solutions to the Structure and Interpretation of Computer Programs
 
 ### 1.1 Elements of Programming
 
-Ex 1.1
+Ex 1.1 (Explain)
 
 [Ex 1.2](Chapter1/1_1/Exercise1_2.scm)
 
-Ex 1.{1..8}
+[Ex 1.3](Chapter1/1_1/Exercise1_3.scm)
+
+Ex 1.4 (Explain)
+
+Ex 1.5 (Explain)
+
+Ex 1.6 (Explain)
+
+Ex 1.7 (Explain)
+
+[Ex 1.8](Chapter1/1_1/Exercise1_8.scm)
 
 ### 1.2 Procedures and the Processes They Generate
 
