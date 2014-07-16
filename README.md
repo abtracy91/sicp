@@ -7,7 +7,7 @@ My solutions to the Structure and Interpretation of Computer Programs
 
 ### 1.1 Elements of Programming
 
-Ex 1.1 (Explain)
+[Ex 1.1](Chapter1/1_1/Exercise1_1.md)
 
 [Ex 1.2](Chapter1/1_1/Exercise1_2.scm)
 
