@@ -17,7 +17,7 @@ My solutions to the Structure and Interpretation of Computer Programs
 
 [Ex 1.5](Chapter1/1_1/Exercise1_5.md)
 
-Ex 1.6 (Explain)
+[Ex 1.6](Chapter1/1_1/Exercise1_6.md)
 
 Ex 1.7 (Explain)
 
