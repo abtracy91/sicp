@@ -31,12 +31,15 @@ Applicative-order: "Evaluate the arguments and then apply"
 
 In applicative-order, the arguments in the code
 > (test 0 (p))
+
 are evaluated, calling the code
 > (define (p) (p))
+
 and resulting in a loop.
 
 In normal-order, the code
 > (test 0 (p))
+
 calls the function test, with arguments 0 and (p).
 The predicate statement is evaluated to #t, and the result 0 is returned. 
 
